@@ -1,0 +1,17 @@
+ Original name:
+Department of Applied Mathematics, University of Dhaka
+
+ Reverse order:
+akahD fo ytisrevinU ,scitamehtaM deilppA fo tnemtrapeD
+
+ Uppercase letters =            5
+ Lowercase letters =           42
+ Vowels =           18
+ Consonants =           29
+ Digits =            0
+ Blank spaces =            6
+
+ Modified name:
+D*p*rtm*nt *f *ppl**d M*th*m*t*cs, *n*v*rs*ty *f Dh*k*
+
+ The name is not a palindrome.

@@ -1,0 +1,21 @@
+ Matrix A:
+           4           7           2           5
+           1           6           8           2
+           9           2           5           7
+           3           8           1           4
+
+ Even-numbered rows:
+           1           6           8           2
+           3           8           1           4
+
+ Boundary elements:
+   4   7   2   5
+   1           2
+   9           7
+   3   8   1   4
+
+ Matrix B:
+           0           0           0           0
+           0           6           8           0
+           0           2           5           0
+           0           0           0           0
