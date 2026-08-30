@@ -1,0 +1,11 @@
+ FUNCTION VALUES
+
+    0.00      0.0000000
+    0.50      0.1557318
+    1.00      0.3485503
+    1.50      0.6306479
+    2.00      1.0932714
+
+ Interpolated value =  0.473651618    
+ Exact value        =  0.474044412    
+ Absolute error     =   3.92794609E-04
