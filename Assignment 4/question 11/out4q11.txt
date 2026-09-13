@@ -1,0 +1,8 @@
+ a =           3  b =           2  n =           5
+    r    Term    Coefficient     Value of term
+    0       1              1               243
+    1       2              5               810
+    2       3             10              1080
+    3       4             10               720
+    4       5              5               240
+    5       6              1                32

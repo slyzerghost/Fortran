@@ -1,0 +1,7 @@
+ Warm   Home   A   B   A<->B
+ F F F F T
+ F T F F T
+ T F F F T
+ T T T T T
+
+ A <-> B is a tautology.

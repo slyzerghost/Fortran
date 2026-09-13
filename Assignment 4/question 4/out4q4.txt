@@ -1,0 +1,7 @@
+ p    q    NOT(p<->q)    p<->NOT(q)
+ F F F F
+ F T T T
+ T F T T
+ T T F F
+
+ The two expressions are equivalent.

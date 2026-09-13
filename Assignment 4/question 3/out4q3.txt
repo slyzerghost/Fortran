@@ -1,0 +1,7 @@
+ p    q    p->q    p<->q    RHS
+ F F T T T
+ F T T F F
+ T F F F F
+ T T T T T
+
+ Hence p <-> q is equivalent to (p AND q) OR (NOT p AND NOT q).

@@ -1,0 +1,11 @@
+ F    B    C    Rule1    Rule2
+ F F F F F
+ F F T F F
+ F T F F F
+ F T T T T
+ T F F F F
+ T F T T T
+ T T F T T
+ T T T T T
+
+ The two rules are logically equivalent.
