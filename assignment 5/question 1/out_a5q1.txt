@@ -1,0 +1,5 @@
+Method                         h        Approx velocity       Exact velocity       Absolute error
+            3-point midpoint         0.250000000         7.752224867         8.137292461         0.385067594
+            3-point endpoint         0.250000000         8.913599343         8.137292461         0.776306882
+            5-point midpoint         0.500000000         7.840412579         8.137292461         0.296879882
+            5-point endpoint         0.500000000         8.080591929         8.137292461         0.056700532

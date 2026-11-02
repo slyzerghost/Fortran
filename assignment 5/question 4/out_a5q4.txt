@@ -1,0 +1,7 @@
+Exact heat (J) =     114.6613734033
+Step size (s)  =     0.080000
+Method                 Approximation(J)       Absolute error(J)       Percent error(%)
+Trapezoidal                     114.5906658772            0.0707075261            0.0616663869
+Simpson 1/3                     114.6615398382            0.0001664349            0.0001451534
+Simpson 3/8                     114.6617540946            0.0003806913            0.0003320135
+Weddle                          114.6613684331            0.0000049702            0.0000043347
